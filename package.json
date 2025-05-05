@@ -1,12 +1,12 @@
 {
   "name": "whatsapp-Starter-Bot",
   "version": "1.0.0",
-  "main": "main.js",
+  "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Stanley Seow stanleyseow@gmail.com",
   "license": "ISC",
   "description": "",
   "dependencies": {
