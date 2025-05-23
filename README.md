@@ -1,4 +1,4 @@
-# WA-Starter
+# WhatsApp-WEB-Starter
 Starter Code for WhatsApp chatbot
 
 ## Install all the libraries
